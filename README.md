@@ -4,4 +4,4 @@ hello welcome to Flapy Bird Game
 
 ** Flapy Bird Game made by HamidrezaGolami **
 
-Github addr: https://github.com/HamidrezaGolami
+Github address : https://github.com/HamidrezaGolami
